@@ -32,6 +32,4 @@ This dashboard analyzes Zomato’s sales, customer preferences, restaurant ratin
 * Improved customer retention by segmenting customers based on spending behavior.
   
 ## 8. Screenshot
-This is How Dashboard looks like: 
-
-
+This is How Dashboard looks like: (https://github.com/debug-sejal/Zomato-Dashboard-Power-BI/blob/main/Zomato.png)
